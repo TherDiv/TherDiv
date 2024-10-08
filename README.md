@@ -26,7 +26,7 @@ I’m constantly learning and growing in areas like cloud computing, robotics, a
 
 ---
 
-📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/esther-ticlla/) or send me an email.  
+📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/esther-ticlla/).  
 
 <!---
 TherDiv/TherDiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
