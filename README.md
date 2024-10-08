@@ -1,6 +1,4 @@
-<p align="center">
-  Hi 👋, I'm Esther 🌱
-</p>
+<h1 align="center">Hi 👋, I'm Esther 🌱</h1>
 
 ### A Software Developer
 
