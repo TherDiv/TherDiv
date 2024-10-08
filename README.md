@@ -1,6 +1,8 @@
-# Hi 👋, I'm Esther 🌱
+<p align="center">
+  Hi 👋, I'm Esther 🌱
+</p>
 
-### A Passionate Software Developer
+### A Software Developer
 
 I’m an enthusiastic developer with a passion for creating impactful solutions through technology. With experience in software engineering and problem-solving, I enjoy working on projects that challenge me and allow me to explore new ways of leveraging technology.
 
